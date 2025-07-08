@@ -1,6 +1,6 @@
 # Robonine
 
-Robonine creates innovative educational robots for schools and universities. We're expanding into housekeeping, delivery, and warehouse robotics.
+Robonine creates innovative educational robots for research laboratories, schools and universities. We're expanding into housekeeping, delivery, and warehouse robotics.
 
 ![Robo 9 Basic Kit](../assets/images/Robo-9-Basic-Kit-1.png)
 

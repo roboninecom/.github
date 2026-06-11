@@ -2,7 +2,7 @@
 
 Robonine creates innovative educational robots for research laboratories, schools and universities.
 
-![Robo 9 Basic Kit](../assets/images/Robo-9-Basic-Kit-1.png)
+![Robo 9 Basic Kit](../assets/images/github_org_banner_1280x360.png)
 
 ## Links to Social Media Accounts
 

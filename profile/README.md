@@ -2,7 +2,7 @@
 
 Robonine creates innovative educational robots for research laboratories, schools and universities.
 
-![SO-ARM102 robotic arm](../assets/images/github_org_banner_1280x360.png)
+![SO-ARM102 leader and follower robot arms](../assets/images/so-arm102-organization-cover.jpg)
 
 ## Links to Social Media Accounts
 
